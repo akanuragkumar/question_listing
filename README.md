@@ -1,5 +1,5 @@
 # Question Listing App
-App for question_listing [GET, POST, PUT, DELETE] with auth.
+App for question_listing [GET, POST, PUT, DELETE] with auth enabled. 
 ## Quickstart
 
 To work in a sandboxed Python environment it is recommended to install the app in a Python [virtualenv](https://pypi.python.org/pypi/virtualenv).
@@ -60,6 +60,7 @@ question_listing/                          # All application code in this direct
 ##  Design 
 
 The boilerplate used for this app is [Flask-Large-Application-Example](https://github.com/Robpol86/Flask-Large-Application-Example).
+I have used this tutorial for [PyJWT implemention](https://medium.com/python-pandemonium/json-web-token-based-authentication-in-django-b6dcfa42a332)
 Features:
 1. Expandable, understandable and project structure with that of Django styled with namespaces and blueprints.
 2. Auth with JWT with refresh tokens and supporting multiple devices of the same user.
