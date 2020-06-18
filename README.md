@@ -1,4 +1,4 @@
-# Question Listing App
+# Questions App
 App for question_listing [GET, POST, PUT, DELETE] with auth-JWT enabled. 
 ## Quickstart
 
