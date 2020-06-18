@@ -1,5 +1,5 @@
 # Question Listing App
-App for question_listing [GET, POST, PUT, DELETE] with auth enabled. 
+App for question_listing [GET, POST, PUT, DELETE] with auth-JWT enabled. 
 ## Quickstart
 
 To work in a sandboxed Python environment it is recommended to install the app in a Python [virtualenv](https://pypi.python.org/pypi/virtualenv).
