@@ -28,7 +28,7 @@ python manage.py db_init
    $ python manage.py run
    ```
 
-   View at for API documentation ```http://127.0.0.1:5000/api/v1/ ```
+   View for API documentation ```http://127.0.0.1:5000/api/v1/ ```
       
 
 ## Project Structure
@@ -59,8 +59,8 @@ question_listing/                          # All application code in this direct
 
 ##  Design 
 
-The boilerplate used for this app is [Flask-Large-Application-Example](https://github.com/Robpol86/Flask-Large-Application-Example).
-I have used this tutorial for [PyJWT implemention](https://medium.com/python-pandemonium/json-web-token-based-authentication-in-django-b6dcfa42a332)
+The boilerplate used for this app is [Flask-Large-Application-Example](https://github.com/Robpol86/Flask-Large-Application-Example).<br />
+I have [python-pandemonium] for implementing PyJWT.(https://medium.com/python-pandemonium/json-web-token-based-authentication-in-django-b6dcfa42a332)
 Features:
 1. Expandable, understandable and project structure with that of Django styled with namespaces and blueprints.
 2. Auth with JWT with refresh tokens and supporting multiple devices of the same user.
