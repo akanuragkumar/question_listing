@@ -37,9 +37,9 @@ python manage.py db_init
 ```shell
 question_listing/                          # All application code in this directory.
 │
-├─app                                      # Shared/misc code goes in here as packages or modules.
+├─app/                                     # Shared/misc code goes in here as packages or modules.
 │  ├── __init__.py                         
-│  └─ v1    ──────┐                        # version 1 for API
+│  └─ v1 ─────────┐                        # version 1 for API
 │                 ├─ models/               # Holds several tables about a subject.
 │                 │  ├─ auth.py            
 │                 │  ├─ question.py        
