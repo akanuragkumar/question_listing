@@ -15,9 +15,9 @@ To work in a sandboxed Python environment it is recommended to install the app i
 
   ```Sql
 environment = [dev, test, prod]  
-export CONFIG_TYPE=[environment]
+$ export CONFIG_TYPE=[environment]
 
-python manage.py db_init
+$ python manage.py db_init
 
 ```
 
