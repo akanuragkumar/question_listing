@@ -5,7 +5,7 @@ import jwt
 
 v1_blueprint = Blueprint('v1_blueprint', __name__)
 v1_api = Api(v1_blueprint,
-             title='TODO API',
+             title='QUESTIONS API',
              version='1.0',
              description='')
 
