@@ -1,4 +1,4 @@
-# Question listing App
+# Question Listing App
 App for question_listing [GET, POST, PUT, DELETE] with auth.
 ## Quickstart
 
