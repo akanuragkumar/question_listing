@@ -60,7 +60,7 @@ question_listing/                          # All application code in this direct
 ##  Design 
 
 The boilerplate used for this app is [Flask-Large-Application-Example](https://github.com/Robpol86/Flask-Large-Application-Example).<br />
-I have used [python-pandemonium](https://medium.com/python-pandemonium/json-web-token-based-authentication-in-django-b6dcfa42a332) medium article for implementing PyJWT.
+I have used [python-pandemonium](https://medium.com/python-pandemonium/json-web-token-based-authentication-in-django-b6dcfa42a332) medium article for implementing PyJWT.<br />
 Features:
 1. Expandable, understandable and project structure with that of Django styled with namespaces and blueprints.
 2. Auth with JWT with refresh tokens and supporting multiple devices of the same user.
